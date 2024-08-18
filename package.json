@@ -2,6 +2,7 @@
   "name": "playground-macos",
   "private": true,
   "type": "module",
+  "homepage": "./",
   "scripts": {
     "build": "vite build",
     "dev": "vite --host",
